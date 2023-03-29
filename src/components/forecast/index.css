@@ -1,0 +1,21 @@
+.day {
+    font-style: italic;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.description {
+    font-style: italic;
+    margin-right: 10px;
+}
+
+.forecast-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.title {
+    font-weight: 800;
+    font-size: 20px;
+}
